@@ -89,7 +89,7 @@ MS Data Science Candidate, Illinois Tech
 
 ## 📩 Connect With Me
 - [LinkedIn](https://linkedin.com/in/johngrier)
-- Email: [jgrier@hawk.iit.edu]
+- Email: jgrier@hawk.iit.edu
 
 
 ## 📁 Repository Structure
