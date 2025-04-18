@@ -80,14 +80,14 @@ This simulator quantifies these differences using comprehensive datasets, transf
 
 ---
 
-## ✒️ Author
+## Author
 **John Grier**  
 MS Data Science Candidate, Illinois Tech  
 [GitHub: J-Grier](https://github.com/J-Grier)
 
 ---
 
-## 📩 Connect With Me
+## 💬 Connect With Me
 - [LinkedIn](https://linkedin.com/in/johngrier)
 - Email: jgrier@hawk.iit.edu
 
