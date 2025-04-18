@@ -1,7 +1,10 @@
 # 🌍 Global Market Expansion Simulator: A Data-Driven CAGE Strategy Advisor
 
 ## 📈 Overview
-This project provides a data-driven decision support tool to quantify and simulate international market expansion opportunities using the CAGE Framework (Cultural, Administrative, Geographic, Economic). By integrating structured global datasets and interactive visualization, it enables businesses to strategically assess and plan global market entries.
+This project is a data-driven decision support tool designed to simulate and prioritize international market expansion using the CAGE Framework (Cultural, Administrative, Geographic, Economic). By combining structured global datasets with an interactive dashboard, it allows businesses to explore how strategic priorities affect market rankings across countries.
+
+The tool was originally developed in response to a global strategy case study focused on Diageo PLC, a UK-based leader in the beverage alcohol industry. Accordingly, the model defaults to the United Kingdom as the home country and compares it to a curated set of high-potential international markets.
+
 
 ---
 
@@ -73,6 +76,8 @@ This simulator quantifies these differences using comprehensive datasets, transf
 ---
 
 ## 🔖 References
+- Ghemawat, Pankaj. "Distance Still Matters: The Hard Reality of Global Expansion." *Harvard Business Review*, 2001.  
+  [Harvard Business School Link](https://www.hbs.edu/faculty/Pages/item.aspx?num=27817)
 - [CAGE Framework (Harvard Business Review)](https://hbr.org/2001/09/distance-still-matters-the-hard-reality-of-global-expansion)
 - [World Bank Open Data](https://data.worldbank.org/)
 - [Hofstede Insights](https://www.hofstede-insights.com/)
