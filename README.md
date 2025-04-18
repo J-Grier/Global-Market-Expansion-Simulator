@@ -5,7 +5,7 @@ This project is a data-driven decision support tool designed to simulate and pri
 
 The tool was originally developed in response to a global strategy case study focused on Diageo PLC, a UK-based leader in the beverage alcohol industry. Accordingly, the model defaults to the United Kingdom as the home country and compares it to a curated set of high-potential international markets.
 
-
+> 📌 **Note:** This dashboard uses interactive widgets (`ipywidgets`) which are not supported in GitHub’s notebook preview. To explore the full functionality, clone the repo and run the notebook locally using Jupyter.
 ---
 
 ## 🎯 Objectives
@@ -24,6 +24,22 @@ The CAGE framework evaluates market entry decisions based on four dimensions:
 This simulator quantifies these differences using comprehensive datasets, transforming qualitative considerations into actionable, numeric insights.
 
 ---
+
+## 🔎 Dashboard Preview
+
+Explore how different strategy profiles impact international market rankings using the CAGE framework.
+
+### 🎯 Cultural Fit Strategy
+This scenario prioritizes countries with strong cultural alignment to the home market.
+
+![Cultural Fit Scenario](Assets/CultureFit.png)
+
+---
+
+### 📈 Growth-at-All-Costs Strategy
+This strategy emphasizes economic potential above all other factors.
+
+![Growth Fit Scenario](Assets/GrowthFit.png)
 
 ## 🛠️ Methodology & Data Sources
 
